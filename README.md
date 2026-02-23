@@ -1,4 +1,4 @@
-```markdown
+
 # 🐼 Pandas Notes & Practice Repository
 
 ## 📌 Overview
@@ -15,15 +15,11 @@ The goal of this repository is to build strong fundamentals in data manipulation
 
 ## 📂 Repository Structure
 
-```
-
 pandas-notes/
 │
 ├── pandas.ipynb   # Interactive notebook practice
 ├── pandas.py      # Script-based implementation
 └── README.md
-
-```
 
 ---
 
@@ -73,4 +69,3 @@ pandas-notes/
 
 Tejal Pagar  
 Aspiring Python Developer | Data Science Enthusiast
-```
