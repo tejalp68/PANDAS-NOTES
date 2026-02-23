@@ -20,7 +20,7 @@ The goal of this repository is to build strong fundamentals in data manipulation
 ├── pandas.ipynb          # Jupyter Notebook practice (interactive learning)
 ├── pandas.py             # Converted Python script version
 ├── datasets/             # (Optional) CSV or Excel files used for practice
-│   └── sample_data.csv
+│   └── zomata_data.csv
 └── README.md             # Project documentation
 ```
 
