@@ -14,12 +14,13 @@ The goal of this repository is to build strong fundamentals in data manipulation
 ---
 
 ## 📂 Repository Structure
-
 pandas-notes/
 │
-├── pandas.ipynb   # Interactive notebook practice
-├── pandas.py      # Script-based implementation
-└── README.md
+├── pandas.ipynb          # Jupyter Notebook practice (interactive learning)
+├── pandas.py             # Converted Python script version
+├── datasets/             # (Optional) CSV or Excel files used for practice
+│   └── sample_data.csv
+└── README.md             # Project documentation
 
 ---
 
