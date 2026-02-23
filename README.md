@@ -14,7 +14,8 @@ The goal of this repository is to build strong fundamentals in data manipulation
 ---
 
 ## 📂 Repository Structure
-pandas-notes/
+---
+
 │
 ├── pandas.ipynb          # Jupyter Notebook practice (interactive learning)
 ├── pandas.py             # Converted Python script version
