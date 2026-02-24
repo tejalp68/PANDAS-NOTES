@@ -8,6 +8,7 @@ This repository contains my structured learning and hands-on practice of the **P
 It includes practical implementations using:
 - Jupyter Notebook (`pandas.ipynb`)
 - Python Script (`pandas.py`)
+- Dataset(`zomato.csv`)
 
 The goal of this repository is to build strong fundamentals in data manipulation, cleaning, and analysis using Pandas.
 
