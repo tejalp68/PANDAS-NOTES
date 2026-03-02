@@ -70,7 +70,7 @@ The goal of this repository is to build strong fundamentals in data manipulation
 ## 👩‍💻 Author
 
 Tejal Pagar  
-Aspiring Python Developer | Data Science Enthusiast
+Aspiring Python Developer | Data Science Enthusiast     
 📍 India
 
 ---
